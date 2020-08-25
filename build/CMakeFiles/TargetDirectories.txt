@@ -1,3 +1,3 @@
-/Users/zxy/Desktop/Robotics/week07/programming-assignment/Model-Predictive-Control-starter/build/CMakeFiles/rebuild_cache.dir
-/Users/zxy/Desktop/Robotics/week07/programming-assignment/Model-Predictive-Control-starter/build/CMakeFiles/edit_cache.dir
-/Users/zxy/Desktop/Robotics/week07/programming-assignment/Model-Predictive-Control-starter/build/CMakeFiles/mpc.dir
+/home/zxy/Github_projects/Model_Predictive_Control/build/CMakeFiles/rebuild_cache.dir
+/home/zxy/Github_projects/Model_Predictive_Control/build/CMakeFiles/edit_cache.dir
+/home/zxy/Github_projects/Model_Predictive_Control/build/CMakeFiles/mpc.dir
